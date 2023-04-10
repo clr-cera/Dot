@@ -1,0 +1,8 @@
+2023-04-09 20:22:34.824 [info] update#setState idle
+2023-04-09 20:22:35.839 [info] Starting extension host with pid 78349 (fork() took 6 ms).
+2023-04-09 20:23:04.825 [info] update#setState checking for updates
+2023-04-09 20:23:05.074 [info] update#setState idle
+2023-04-09 20:23:19.006 [info] Starting extension host with pid 78988 (fork() took 7 ms).
+2023-04-09 20:23:41.678 [info] Extension host with pid 78988 exited with code: 0, signal: null.
+2023-04-09 21:05:22.497 [info] Waiting for extension host with pid 78349 to exit.
+2023-04-09 21:05:22.502 [info] Extension host with pid 78349 exited with code: 0, signal: null.

@@ -1,0 +1,17 @@
+2023-04-09 21:31:21.311 [info] Starting worker process with pid 91325 (type: fileWatcher, window: 1).
+2023-04-09 21:31:25.521 [info] Getting Manifest... enkia.tokyo-night
+2023-04-09 21:31:25.537 [info] Installing extension: enkia.tokyo-night
+2023-04-09 21:31:25.732 [info] Extension installed successfully: enkia.tokyo-night
+2023-04-09 21:32:30.649 [info] Starting worker process with pid 91639 (type: fileWatcher, window: 3).
+2023-04-09 21:32:35.288 [info] Getting Manifest... enkia.tokyo-night
+2023-04-09 21:32:35.293 [info] Installing extension: enkia.tokyo-night
+2023-04-09 21:32:35.464 [info] Extension installed successfully: enkia.tokyo-night
+2023-04-09 21:32:48.520 [info] Worker process with pid 91639 terminated normally (type: fileWatcher, window: 3).
+2023-04-09 21:32:48.526 [info] Starting worker process with pid 91708 (type: fileWatcher, window: 3).
+2023-04-09 21:32:49.228 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 3, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-04-09 21:32:49.232 [info] Worker process with pid 91708 terminated normally (type: fileWatcher, window: 3).
+2023-04-09 21:32:49.249 [info] Starting worker process with pid 91735 (type: fileWatcher, window: 3).
+2023-04-09 21:32:53.540 [info] Getting Manifest... enkia.tokyo-night
+2023-04-09 21:32:53.548 [info] Installing extension: enkia.tokyo-night
+2023-04-09 21:32:53.775 [info] Extension installed successfully: enkia.tokyo-night
+2023-04-09 21:32:55.660 [info] Worker process with pid 91735 terminated normally (type: fileWatcher, window: 3).

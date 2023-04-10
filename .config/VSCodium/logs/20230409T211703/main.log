@@ -1,0 +1,6 @@
+2023-04-09 21:17:03.931 [info] update#setState idle
+2023-04-09 21:17:05.012 [info] Starting extension host with pid 82514 (fork() took 6 ms).
+2023-04-09 21:17:33.933 [info] update#setState checking for updates
+2023-04-09 21:17:34.211 [info] update#setState idle
+2023-04-09 21:21:20.043 [info] Waiting for extension host with pid 82514 to exit.
+2023-04-09 21:21:20.048 [info] Extension host with pid 82514 exited with code: 0, signal: null.

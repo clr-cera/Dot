@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Tokyo Night",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontFamily": "'FiraCode Nerd Font', 'monospace', monospace",
+    "workbench.iconTheme": "file-icons",
+    "explorer.confirmDelete": false
+}

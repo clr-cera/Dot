@@ -1,0 +1,633 @@
+2023-04-09T23:20:12.453Z [Modules] Modules initializing
+2023-04-09T23:20:12.453Z [Modules] Distribution: remote
+2023-04-09T23:20:12.453Z [Modules] Host updates: enabled
+2023-04-09T23:20:12.453Z [Modules] Module updates: enabled
+2023-04-09T23:20:12.454Z [Modules] Module install path: /home/nix/.config/discord/0.0.26/modules
+2023-04-09T23:20:12.454Z [Modules] Module installed file path: /home/nix/.config/discord/0.0.26/modules/installed.json
+2023-04-09T23:20:12.454Z [Modules] Module download path: /home/nix/.config/discord/0.0.26/modules/pending
+2023-04-09T23:20:12.626Z [Modules] Bootstrapping...
+2023-04-09T23:20:12.626Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-04-09T23:20:12.627Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-04-09T23:20:12.628Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-04-09T23:20:12.628Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-04-09T23:20:12.628Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-04-09T23:20:12.629Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-04-09T23:20:12.629Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-04-09T23:20:12.629Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-04-09T23:20:12.629Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-04-09T23:20:12.629Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-04-09T23:20:12.629Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-04-09T23:20:12.630Z [Modules] Checking for host updates.
+2023-04-09T23:20:12.948Z [Modules] Host is up to date.
+2023-04-09T23:20:12.949Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-09T23:20:13.002Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-04-09T23:20:13.003Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-04-09T23:20:13.003Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-04-09T23:20:13.003Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-04-09T23:20:13.004Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-04-09T23:20:13.005Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-04-09T23:20:13.006Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip
+2023-04-09T23:20:13.292Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 2%
+2023-04-09T23:20:13.304Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 3%
+2023-04-09T23:20:13.313Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 4%
+2023-04-09T23:20:13.320Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 5%
+2023-04-09T23:20:13.324Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 6%
+2023-04-09T23:20:13.328Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 7%
+2023-04-09T23:20:13.330Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 8%
+2023-04-09T23:20:13.334Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 9%
+2023-04-09T23:20:13.339Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 10%
+2023-04-09T23:20:13.341Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 11%
+2023-04-09T23:20:13.346Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 12%
+2023-04-09T23:20:13.348Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 13%
+2023-04-09T23:20:13.350Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 14%
+2023-04-09T23:20:13.352Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 15%
+2023-04-09T23:20:13.354Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 16%
+2023-04-09T23:20:13.356Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 18%
+2023-04-09T23:20:13.357Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 19%
+2023-04-09T23:20:13.361Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 21%
+2023-04-09T23:20:13.364Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 23%
+2023-04-09T23:20:13.365Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 24%
+2023-04-09T23:20:13.367Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 26%
+2023-04-09T23:20:13.370Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 27%
+2023-04-09T23:20:13.372Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 29%
+2023-04-09T23:20:13.374Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 31%
+2023-04-09T23:20:13.375Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 34%
+2023-04-09T23:20:13.376Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 35%
+2023-04-09T23:20:13.378Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 36%
+2023-04-09T23:20:13.380Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 38%
+2023-04-09T23:20:13.382Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 41%
+2023-04-09T23:20:13.385Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 44%
+2023-04-09T23:20:13.386Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 47%
+2023-04-09T23:20:13.389Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 50%
+2023-04-09T23:20:13.390Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 54%
+2023-04-09T23:20:13.392Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 55%
+2023-04-09T23:20:13.395Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 59%
+2023-04-09T23:20:13.396Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 60%
+2023-04-09T23:20:13.398Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 63%
+2023-04-09T23:20:13.400Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 67%
+2023-04-09T23:20:13.400Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 68%
+2023-04-09T23:20:13.403Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 71%
+2023-04-09T23:20:13.404Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 72%
+2023-04-09T23:20:13.407Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 75%
+2023-04-09T23:20:13.407Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 77%
+2023-04-09T23:20:13.412Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 81%
+2023-04-09T23:20:13.412Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 82%
+2023-04-09T23:20:13.415Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 85%
+2023-04-09T23:20:13.415Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 87%
+2023-04-09T23:20:13.420Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 90%
+2023-04-09T23:20:13.420Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 91%
+2023-04-09T23:20:13.423Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 95%
+2023-04-09T23:20:13.424Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 96%
+2023-04-09T23:20:13.426Z [Modules] Streaming discord_desktop_core@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 100%
+2023-04-09T23:20:13.430Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-04-09T23:20:13.430Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip
+2023-04-09T23:20:13.866Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 3%
+2023-04-09T23:20:13.867Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 8%
+2023-04-09T23:20:13.870Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 10%
+2023-04-09T23:20:13.872Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 14%
+2023-04-09T23:20:13.873Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 20%
+2023-04-09T23:20:13.876Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 24%
+2023-04-09T23:20:13.877Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 26%
+2023-04-09T23:20:13.879Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 30%
+2023-04-09T23:20:13.880Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 31%
+2023-04-09T23:20:13.881Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 34%
+2023-04-09T23:20:13.882Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 36%
+2023-04-09T23:20:13.883Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 40%
+2023-04-09T23:20:13.884Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 41%
+2023-04-09T23:20:13.889Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 45%
+2023-04-09T23:20:13.891Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 50%
+2023-04-09T23:20:13.891Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 52%
+2023-04-09T23:20:13.893Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 56%
+2023-04-09T23:20:13.894Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 58%
+2023-04-09T23:20:13.895Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 62%
+2023-04-09T23:20:13.896Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 63%
+2023-04-09T23:20:13.898Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 66%
+2023-04-09T23:20:13.899Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 68%
+2023-04-09T23:20:13.901Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 72%
+2023-04-09T23:20:13.901Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 73%
+2023-04-09T23:20:13.905Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 75%
+2023-04-09T23:20:13.908Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 79%
+2023-04-09T23:20:13.909Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 84%
+2023-04-09T23:20:13.910Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 86%
+2023-04-09T23:20:13.911Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 90%
+2023-04-09T23:20:13.912Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 92%
+2023-04-09T23:20:13.914Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 96%
+2023-04-09T23:20:13.915Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 97%
+2023-04-09T23:20:13.916Z [Modules] Streaming discord_erlpack@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 100%
+2023-04-09T23:20:13.918Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-04-09T23:20:13.918Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip
+2023-04-09T23:20:14.171Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 1%
+2023-04-09T23:20:14.175Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 2%
+2023-04-09T23:20:14.176Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 3%
+2023-04-09T23:20:14.181Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 4%
+2023-04-09T23:20:14.188Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 5%
+2023-04-09T23:20:14.192Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 6%
+2023-04-09T23:20:14.194Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 7%
+2023-04-09T23:20:14.199Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 8%
+2023-04-09T23:20:14.202Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 9%
+2023-04-09T23:20:14.210Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 10%
+2023-04-09T23:20:14.216Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 11%
+2023-04-09T23:20:14.220Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 12%
+2023-04-09T23:20:14.222Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 13%
+2023-04-09T23:20:14.233Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 14%
+2023-04-09T23:20:14.237Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 15%
+2023-04-09T23:20:14.247Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 16%
+2023-04-09T23:20:14.249Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 17%
+2023-04-09T23:20:14.255Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 18%
+2023-04-09T23:20:14.263Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 19%
+2023-04-09T23:20:14.267Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 20%
+2023-04-09T23:20:14.274Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 21%
+2023-04-09T23:20:14.287Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 22%
+2023-04-09T23:20:14.291Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 23%
+2023-04-09T23:20:14.296Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 24%
+2023-04-09T23:20:14.298Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 25%
+2023-04-09T23:20:14.303Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 26%
+2023-04-09T23:20:14.306Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 27%
+2023-04-09T23:20:14.310Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 28%
+2023-04-09T23:20:14.314Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 29%
+2023-04-09T23:20:14.318Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 30%
+2023-04-09T23:20:14.323Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 31%
+2023-04-09T23:20:14.324Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 32%
+2023-04-09T23:20:14.328Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 33%
+2023-04-09T23:20:14.335Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 34%
+2023-04-09T23:20:14.342Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 35%
+2023-04-09T23:20:14.352Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 36%
+2023-04-09T23:20:14.353Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 37%
+2023-04-09T23:20:14.360Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 38%
+2023-04-09T23:20:14.366Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 39%
+2023-04-09T23:20:14.371Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 40%
+2023-04-09T23:20:14.383Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 41%
+2023-04-09T23:20:14.392Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 42%
+2023-04-09T23:20:14.398Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 43%
+2023-04-09T23:20:14.406Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 44%
+2023-04-09T23:20:14.410Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 45%
+2023-04-09T23:20:14.418Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 46%
+2023-04-09T23:20:14.427Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 47%
+2023-04-09T23:20:14.437Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 48%
+2023-04-09T23:20:14.445Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 49%
+2023-04-09T23:20:14.455Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 50%
+2023-04-09T23:20:14.464Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 51%
+2023-04-09T23:20:14.471Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 52%
+2023-04-09T23:20:14.474Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 53%
+2023-04-09T23:20:14.477Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 54%
+2023-04-09T23:20:14.479Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 55%
+2023-04-09T23:20:14.485Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 56%
+2023-04-09T23:20:14.491Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 57%
+2023-04-09T23:20:14.494Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 58%
+2023-04-09T23:20:14.496Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 59%
+2023-04-09T23:20:14.504Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 60%
+2023-04-09T23:20:14.506Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 61%
+2023-04-09T23:20:14.514Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 62%
+2023-04-09T23:20:14.518Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 63%
+2023-04-09T23:20:14.524Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 64%
+2023-04-09T23:20:14.541Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 65%
+2023-04-09T23:20:14.542Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 66%
+2023-04-09T23:20:14.553Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 67%
+2023-04-09T23:20:14.557Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 68%
+2023-04-09T23:20:14.564Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 69%
+2023-04-09T23:20:14.574Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 70%
+2023-04-09T23:20:14.575Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 71%
+2023-04-09T23:20:14.580Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 72%
+2023-04-09T23:20:14.583Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 73%
+2023-04-09T23:20:14.589Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 74%
+2023-04-09T23:20:14.594Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 75%
+2023-04-09T23:20:14.599Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 76%
+2023-04-09T23:20:14.610Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 77%
+2023-04-09T23:20:14.617Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 78%
+2023-04-09T23:20:14.618Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 79%
+2023-04-09T23:20:14.625Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 80%
+2023-04-09T23:20:14.627Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 81%
+2023-04-09T23:20:14.634Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 82%
+2023-04-09T23:20:14.644Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 83%
+2023-04-09T23:20:14.647Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 84%
+2023-04-09T23:20:14.650Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 85%
+2023-04-09T23:20:14.690Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 86%
+2023-04-09T23:20:14.696Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 87%
+2023-04-09T23:20:14.701Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 88%
+2023-04-09T23:20:14.711Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 89%
+2023-04-09T23:20:14.717Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 90%
+2023-04-09T23:20:14.722Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 91%
+2023-04-09T23:20:14.727Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 92%
+2023-04-09T23:20:14.732Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 93%
+2023-04-09T23:20:14.738Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 94%
+2023-04-09T23:20:14.743Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 95%
+2023-04-09T23:20:14.750Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 96%
+2023-04-09T23:20:14.753Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 97%
+2023-04-09T23:20:14.791Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 98%
+2023-04-09T23:20:14.792Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 99%
+2023-04-09T23:20:14.793Z [Modules] Streaming discord_spellcheck@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 100%
+2023-04-09T23:20:14.796Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-04-09T23:20:14.796Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip
+2023-04-09T23:20:15.199Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 2%
+2023-04-09T23:20:15.200Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 4%
+2023-04-09T23:20:15.203Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 6%
+2023-04-09T23:20:15.206Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 8%
+2023-04-09T23:20:15.209Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 10%
+2023-04-09T23:20:15.212Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 12%
+2023-04-09T23:20:15.215Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 14%
+2023-04-09T23:20:15.218Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 16%
+2023-04-09T23:20:15.220Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 17%
+2023-04-09T23:20:15.222Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 18%
+2023-04-09T23:20:15.225Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 20%
+2023-04-09T23:20:15.227Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 22%
+2023-04-09T23:20:15.230Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 24%
+2023-04-09T23:20:15.231Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 25%
+2023-04-09T23:20:15.234Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 27%
+2023-04-09T23:20:15.235Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 28%
+2023-04-09T23:20:15.237Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 30%
+2023-04-09T23:20:15.238Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 31%
+2023-04-09T23:20:15.241Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 32%
+2023-04-09T23:20:15.243Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 34%
+2023-04-09T23:20:15.245Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 35%
+2023-04-09T23:20:15.247Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 37%
+2023-04-09T23:20:15.248Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 38%
+2023-04-09T23:20:15.251Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 40%
+2023-04-09T23:20:15.254Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 41%
+2023-04-09T23:20:15.256Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 43%
+2023-04-09T23:20:15.258Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 44%
+2023-04-09T23:20:15.260Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 45%
+2023-04-09T23:20:15.264Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 47%
+2023-04-09T23:20:15.266Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 48%
+2023-04-09T23:20:15.269Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 49%
+2023-04-09T23:20:15.274Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 51%
+2023-04-09T23:20:15.278Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 53%
+2023-04-09T23:20:15.281Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 55%
+2023-04-09T23:20:15.282Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 56%
+2023-04-09T23:20:15.284Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 57%
+2023-04-09T23:20:15.286Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 58%
+2023-04-09T23:20:15.287Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 61%
+2023-04-09T23:20:15.289Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 62%
+2023-04-09T23:20:15.292Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 63%
+2023-04-09T23:20:15.295Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 65%
+2023-04-09T23:20:15.295Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 66%
+2023-04-09T23:20:15.298Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 68%
+2023-04-09T23:20:15.301Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 69%
+2023-04-09T23:20:15.302Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 70%
+2023-04-09T23:20:15.305Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 73%
+2023-04-09T23:20:15.306Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 74%
+2023-04-09T23:20:15.308Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 75%
+2023-04-09T23:20:15.311Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 76%
+2023-04-09T23:20:15.314Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 78%
+2023-04-09T23:20:15.316Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 80%
+2023-04-09T23:20:15.317Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 81%
+2023-04-09T23:20:15.320Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 82%
+2023-04-09T23:20:15.322Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 84%
+2023-04-09T23:20:15.323Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 86%
+2023-04-09T23:20:15.329Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 88%
+2023-04-09T23:20:15.329Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 89%
+2023-04-09T23:20:15.333Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 90%
+2023-04-09T23:20:15.334Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 93%
+2023-04-09T23:20:15.337Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 94%
+2023-04-09T23:20:15.338Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 95%
+2023-04-09T23:20:15.341Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 97%
+2023-04-09T23:20:15.344Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 99%
+2023-04-09T23:20:15.345Z [Modules] Streaming discord_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 100%
+2023-04-09T23:20:15.349Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-04-09T23:20:15.350Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip
+2023-04-09T23:20:15.630Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 1%
+2023-04-09T23:20:15.641Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 2%
+2023-04-09T23:20:15.649Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 3%
+2023-04-09T23:20:15.655Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 4%
+2023-04-09T23:20:15.667Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 5%
+2023-04-09T23:20:15.676Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 6%
+2023-04-09T23:20:15.684Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 7%
+2023-04-09T23:20:15.692Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 8%
+2023-04-09T23:20:15.699Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 9%
+2023-04-09T23:20:15.707Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 10%
+2023-04-09T23:20:15.717Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 11%
+2023-04-09T23:20:15.727Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 12%
+2023-04-09T23:20:15.735Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 13%
+2023-04-09T23:20:15.744Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 14%
+2023-04-09T23:20:15.752Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 15%
+2023-04-09T23:20:15.762Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 16%
+2023-04-09T23:20:15.777Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 17%
+2023-04-09T23:20:15.787Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 18%
+2023-04-09T23:20:15.794Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 19%
+2023-04-09T23:20:15.804Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 20%
+2023-04-09T23:20:15.815Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 21%
+2023-04-09T23:20:15.828Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 22%
+2023-04-09T23:20:15.838Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 23%
+2023-04-09T23:20:15.847Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 24%
+2023-04-09T23:20:15.856Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 25%
+2023-04-09T23:20:15.866Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 26%
+2023-04-09T23:20:15.877Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 27%
+2023-04-09T23:20:15.886Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 28%
+2023-04-09T23:20:15.895Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 29%
+2023-04-09T23:20:15.904Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 30%
+2023-04-09T23:20:15.916Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 31%
+2023-04-09T23:20:15.921Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 32%
+2023-04-09T23:20:15.931Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 33%
+2023-04-09T23:20:15.944Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 34%
+2023-04-09T23:20:15.953Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 35%
+2023-04-09T23:20:15.962Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 36%
+2023-04-09T23:20:15.971Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 37%
+2023-04-09T23:20:15.982Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 38%
+2023-04-09T23:20:15.990Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 39%
+2023-04-09T23:20:15.998Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 40%
+2023-04-09T23:20:16.007Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 41%
+2023-04-09T23:20:16.015Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 42%
+2023-04-09T23:20:16.024Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 43%
+2023-04-09T23:20:16.030Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 44%
+2023-04-09T23:20:16.041Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 45%
+2023-04-09T23:20:16.048Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 46%
+2023-04-09T23:20:16.056Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 47%
+2023-04-09T23:20:16.063Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 48%
+2023-04-09T23:20:16.075Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 49%
+2023-04-09T23:20:16.087Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 50%
+2023-04-09T23:20:16.093Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 51%
+2023-04-09T23:20:16.100Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 52%
+2023-04-09T23:20:16.111Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 53%
+2023-04-09T23:20:16.117Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 54%
+2023-04-09T23:20:16.125Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 55%
+2023-04-09T23:20:16.133Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 56%
+2023-04-09T23:20:16.142Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 57%
+2023-04-09T23:20:16.149Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 58%
+2023-04-09T23:20:16.158Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 59%
+2023-04-09T23:20:16.165Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 60%
+2023-04-09T23:20:16.177Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 61%
+2023-04-09T23:20:16.185Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 62%
+2023-04-09T23:20:16.192Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 63%
+2023-04-09T23:20:16.200Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 64%
+2023-04-09T23:20:16.210Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 65%
+2023-04-09T23:20:16.217Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 66%
+2023-04-09T23:20:16.226Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 67%
+2023-04-09T23:20:16.232Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 68%
+2023-04-09T23:20:16.240Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 69%
+2023-04-09T23:20:16.249Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 70%
+2023-04-09T23:20:16.256Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 71%
+2023-04-09T23:20:16.267Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 72%
+2023-04-09T23:20:16.271Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 73%
+2023-04-09T23:20:16.277Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 74%
+2023-04-09T23:20:16.290Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 75%
+2023-04-09T23:20:16.295Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 76%
+2023-04-09T23:20:16.306Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 77%
+2023-04-09T23:20:16.310Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 78%
+2023-04-09T23:20:16.320Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 79%
+2023-04-09T23:20:16.329Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 80%
+2023-04-09T23:20:16.336Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 81%
+2023-04-09T23:20:16.344Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 82%
+2023-04-09T23:20:16.351Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 83%
+2023-04-09T23:20:16.360Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 84%
+2023-04-09T23:20:16.368Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 85%
+2023-04-09T23:20:16.378Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 86%
+2023-04-09T23:20:16.391Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 87%
+2023-04-09T23:20:16.398Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 88%
+2023-04-09T23:20:16.406Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 89%
+2023-04-09T23:20:16.420Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 90%
+2023-04-09T23:20:16.427Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 91%
+2023-04-09T23:20:16.434Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 92%
+2023-04-09T23:20:16.444Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 93%
+2023-04-09T23:20:16.454Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 94%
+2023-04-09T23:20:16.462Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 95%
+2023-04-09T23:20:16.470Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 96%
+2023-04-09T23:20:16.479Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 97%
+2023-04-09T23:20:16.493Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 98%
+2023-04-09T23:20:16.501Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 99%
+2023-04-09T23:20:16.508Z [Modules] Streaming discord_voice@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 100%
+2023-04-09T23:20:16.511Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-04-09T23:20:16.511Z [Modules] Installing updates...
+2023-04-09T23:20:16.512Z [Modules] Installing discord_desktop_core@1 from /home/nix/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip
+2023-04-09T23:20:16.599Z [Modules] Installing discord_erlpack@1 from /home/nix/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip
+2023-04-09T23:20:16.656Z [Modules] Installing discord_spellcheck@1 from /home/nix/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip
+2023-04-09T23:20:17.224Z [Modules] Installing discord_utils@1 from /home/nix/.config/discord/0.0.26/modules/pending/discord_utils-1.zip
+2023-04-09T23:20:17.524Z [Modules] Installing discord_voice@1 from /home/nix/.config/discord/0.0.26/modules/pending/discord_voice-1.zip
+2023-04-09T23:20:18.111Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-04-09T23:20:18.111Z [Modules] Checking for host updates.
+2023-04-09T23:20:18.340Z [Modules] Host is up to date.
+2023-04-09T23:20:18.340Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-09T23:20:18.348Z [Modules] No module updates available.
+2023-04-09T23:20:19.961Z [Modules] Starting to install discord_krisp...
+2023-04-09T23:20:19.961Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-04-09T23:20:19.961Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip
+2023-04-09T23:20:20.086Z [Modules] Starting to install discord_game_utils...
+2023-04-09T23:20:20.221Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 1%
+2023-04-09T23:20:20.231Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 2%
+2023-04-09T23:20:20.242Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 3%
+2023-04-09T23:20:20.256Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 4%
+2023-04-09T23:20:20.269Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 5%
+2023-04-09T23:20:20.272Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 6%
+2023-04-09T23:20:20.283Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 7%
+2023-04-09T23:20:20.301Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 8%
+2023-04-09T23:20:20.390Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 9%
+2023-04-09T23:20:20.399Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 10%
+2023-04-09T23:20:20.407Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 11%
+2023-04-09T23:20:20.411Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 12%
+2023-04-09T23:20:20.413Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 13%
+2023-04-09T23:20:20.421Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 14%
+2023-04-09T23:20:20.424Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 15%
+2023-04-09T23:20:20.426Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 16%
+2023-04-09T23:20:20.427Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 17%
+2023-04-09T23:20:20.428Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 18%
+2023-04-09T23:20:20.429Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 19%
+2023-04-09T23:20:20.429Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 20%
+2023-04-09T23:20:20.429Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 21%
+2023-04-09T23:20:20.433Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 22%
+2023-04-09T23:20:20.442Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 23%
+2023-04-09T23:20:20.449Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 24%
+2023-04-09T23:20:20.460Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 25%
+2023-04-09T23:20:20.467Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 26%
+2023-04-09T23:20:20.473Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 27%
+2023-04-09T23:20:20.481Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 28%
+2023-04-09T23:20:20.491Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 29%
+2023-04-09T23:20:20.499Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 30%
+2023-04-09T23:20:20.510Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 31%
+2023-04-09T23:20:20.513Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 32%
+2023-04-09T23:20:20.531Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 33%
+2023-04-09T23:20:20.541Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 34%
+2023-04-09T23:20:20.547Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 35%
+2023-04-09T23:20:20.557Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 36%
+2023-04-09T23:20:20.564Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 37%
+2023-04-09T23:20:20.571Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 38%
+2023-04-09T23:20:20.577Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 39%
+2023-04-09T23:20:20.594Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 40%
+2023-04-09T23:20:20.598Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 41%
+2023-04-09T23:20:20.604Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 42%
+2023-04-09T23:20:20.608Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 43%
+2023-04-09T23:20:20.616Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 44%
+2023-04-09T23:20:20.623Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 45%
+2023-04-09T23:20:20.628Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 46%
+2023-04-09T23:20:20.636Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 47%
+2023-04-09T23:20:20.643Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 48%
+2023-04-09T23:20:20.651Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 49%
+2023-04-09T23:20:20.657Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 50%
+2023-04-09T23:20:20.667Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 51%
+2023-04-09T23:20:20.676Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 52%
+2023-04-09T23:20:20.684Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 53%
+2023-04-09T23:20:20.691Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 54%
+2023-04-09T23:20:20.697Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 55%
+2023-04-09T23:20:20.706Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 56%
+2023-04-09T23:20:20.711Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 57%
+2023-04-09T23:20:20.717Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 58%
+2023-04-09T23:20:20.727Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 59%
+2023-04-09T23:20:20.734Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 60%
+2023-04-09T23:20:20.740Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 61%
+2023-04-09T23:20:20.746Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 62%
+2023-04-09T23:20:20.753Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 63%
+2023-04-09T23:20:20.762Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 64%
+2023-04-09T23:20:20.769Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 65%
+2023-04-09T23:20:20.774Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 66%
+2023-04-09T23:20:20.781Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 67%
+2023-04-09T23:20:20.793Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 68%
+2023-04-09T23:20:20.802Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 69%
+2023-04-09T23:20:20.807Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 70%
+2023-04-09T23:20:20.813Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 71%
+2023-04-09T23:20:20.825Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 72%
+2023-04-09T23:20:20.830Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 73%
+2023-04-09T23:20:20.834Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 74%
+2023-04-09T23:20:20.847Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 75%
+2023-04-09T23:20:20.861Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 76%
+2023-04-09T23:20:20.873Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 77%
+2023-04-09T23:20:20.876Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 78%
+2023-04-09T23:20:20.897Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 79%
+2023-04-09T23:20:20.909Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 80%
+2023-04-09T23:20:20.913Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 81%
+2023-04-09T23:20:20.919Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 82%
+2023-04-09T23:20:20.926Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 83%
+2023-04-09T23:20:20.934Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 84%
+2023-04-09T23:20:20.942Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 85%
+2023-04-09T23:20:20.952Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 86%
+2023-04-09T23:20:20.957Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 87%
+2023-04-09T23:20:20.964Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 88%
+2023-04-09T23:20:20.975Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 89%
+2023-04-09T23:20:20.981Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 90%
+2023-04-09T23:20:20.993Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 91%
+2023-04-09T23:20:21.010Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 92%
+2023-04-09T23:20:21.014Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 93%
+2023-04-09T23:20:21.025Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 94%
+2023-04-09T23:20:21.031Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 95%
+2023-04-09T23:20:21.048Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 96%
+2023-04-09T23:20:21.060Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 97%
+2023-04-09T23:20:21.069Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 98%
+2023-04-09T23:20:21.082Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 99%
+2023-04-09T23:20:21.089Z [Modules] Streaming discord_krisp@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 100%
+2023-04-09T23:20:21.091Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-04-09T23:20:21.091Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip
+2023-04-09T23:20:21.091Z [Modules] Installing discord_krisp@1 from /home/nix/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip
+2023-04-09T23:20:21.200Z [Modules] Checking for host updates.
+2023-04-09T23:20:21.278Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 2%
+2023-04-09T23:20:21.282Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 5%
+2023-04-09T23:20:21.282Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 8%
+2023-04-09T23:20:21.285Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 10%
+2023-04-09T23:20:21.287Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 11%
+2023-04-09T23:20:21.290Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 13%
+2023-04-09T23:20:21.292Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 15%
+2023-04-09T23:20:21.292Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 16%
+2023-04-09T23:20:21.294Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 18%
+2023-04-09T23:20:21.296Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 21%
+2023-04-09T23:20:21.300Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 24%
+2023-04-09T23:20:21.300Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 25%
+2023-04-09T23:20:21.302Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 26%
+2023-04-09T23:20:21.305Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 27%
+2023-04-09T23:20:21.306Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 30%
+2023-04-09T23:20:21.308Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 31%
+2023-04-09T23:20:21.309Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 33%
+2023-04-09T23:20:21.313Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 34%
+2023-04-09T23:20:21.315Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 37%
+2023-04-09T23:20:21.315Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 40%
+2023-04-09T23:20:21.315Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 41%
+2023-04-09T23:20:21.319Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 43%
+2023-04-09T23:20:21.325Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 46%
+2023-04-09T23:20:21.330Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 51%
+2023-04-09T23:20:21.330Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 54%
+2023-04-09T23:20:21.332Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 57%
+2023-04-09T23:20:21.336Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 59%
+2023-04-09T23:20:21.342Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 61%
+2023-04-09T23:20:21.342Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 64%
+2023-04-09T23:20:21.344Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 66%
+2023-04-09T23:20:21.350Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 69%
+2023-04-09T23:20:21.350Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 73%
+2023-04-09T23:20:21.355Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 75%
+2023-04-09T23:20:21.360Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 76%
+2023-04-09T23:20:21.362Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 78%
+2023-04-09T23:20:21.364Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 81%
+2023-04-09T23:20:21.364Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 82%
+2023-04-09T23:20:21.369Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 84%
+2023-04-09T23:20:21.373Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 85%
+2023-04-09T23:20:21.374Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 87%
+2023-04-09T23:20:21.375Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 88%
+2023-04-09T23:20:21.377Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 90%
+2023-04-09T23:20:21.378Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 92%
+2023-04-09T23:20:21.381Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 94%
+2023-04-09T23:20:21.381Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 96%
+2023-04-09T23:20:21.383Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 99%
+2023-04-09T23:20:21.384Z [Modules] Streaming discord_game_utils@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 100%
+2023-04-09T23:20:21.385Z [Modules] Host is up to date.
+2023-04-09T23:20:21.385Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-09T23:20:21.389Z [Modules] Finished module downloads. [success: 2] [failure: 0]
+2023-04-09T23:20:21.392Z [Modules] No module updates available.
+2023-04-09T23:20:21.466Z [Modules] Starting to install discord_rpc...
+2023-04-09T23:20:21.466Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-04-09T23:20:21.466Z [Modules] Streaming discord_rpc@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_rpc-1.zip
+2023-04-09T23:20:21.671Z [Modules] Streaming discord_rpc@1 to /home/nix/.config/discord/0.0.26/modules/pending/discord_rpc-1.zip: 100%
+2023-04-09T23:20:21.672Z [Modules] Finished module downloads. [success: 1] [failure: 0]
+2023-04-09T23:20:21.709Z [Modules] Installing discord_game_utils@1 from /home/nix/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip
+2023-04-09T23:20:21.774Z [Modules] Installing discord_rpc@1 from /home/nix/.config/discord/0.0.26/modules/pending/discord_rpc-1.zip
+2023-04-09T23:20:21.797Z [Modules] Finished module installations. [success: 3] [failure: 0]
+2023-04-09T23:23:01.298Z [Modules] Modules initializing
+2023-04-09T23:23:01.298Z [Modules] Distribution: remote
+2023-04-09T23:23:01.298Z [Modules] Host updates: enabled
+2023-04-09T23:23:01.299Z [Modules] Module updates: enabled
+2023-04-09T23:23:01.299Z [Modules] Module install path: /home/nix/.config/discord/0.0.26/modules
+2023-04-09T23:23:01.299Z [Modules] Module installed file path: /home/nix/.config/discord/0.0.26/modules/installed.json
+2023-04-09T23:23:01.299Z [Modules] Module download path: /home/nix/.config/discord/0.0.26/modules/pending
+2023-04-09T23:23:01.451Z [Modules] No updates to install
+2023-04-09T23:23:01.452Z [Modules] Checking for host updates.
+2023-04-09T23:23:01.978Z [Modules] Host is up to date.
+2023-04-09T23:23:01.979Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-09T23:23:01.988Z [Modules] No module updates available.
+2023-04-09T23:23:05.090Z [Modules] Checking for host updates.
+2023-04-09T23:23:05.349Z [Modules] Host is up to date.
+2023-04-09T23:23:05.349Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-09T23:23:05.352Z [Modules] No module updates available.
+2023-04-10T00:23:05.093Z [Modules] Checking for host updates.
+2023-04-10T00:23:05.305Z [Modules] Host is up to date.
+2023-04-10T00:23:05.306Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-10T00:23:05.357Z [Modules] No module updates available.
+2023-04-10T13:41:21.658Z [Modules] Modules initializing
+2023-04-10T13:41:21.662Z [Modules] Distribution: remote
+2023-04-10T13:41:21.662Z [Modules] Host updates: enabled
+2023-04-10T13:41:21.662Z [Modules] Module updates: enabled
+2023-04-10T13:41:21.663Z [Modules] Module install path: /home/nix/.config/discord/0.0.26/modules
+2023-04-10T13:41:21.663Z [Modules] Module installed file path: /home/nix/.config/discord/0.0.26/modules/installed.json
+2023-04-10T13:41:21.663Z [Modules] Module download path: /home/nix/.config/discord/0.0.26/modules/pending
+2023-04-10T13:41:22.086Z [Modules] No updates to install
+2023-04-10T13:41:22.088Z [Modules] Checking for host updates.
+2023-04-10T13:41:22.368Z [Modules] Host is up to date.
+2023-04-10T13:41:22.368Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-10T13:41:22.400Z [Modules] No module updates available.
+2023-04-10T13:41:25.211Z [Modules] Checking for host updates.
+2023-04-10T13:41:25.382Z [Modules] Host is up to date.
+2023-04-10T13:41:25.382Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-10T13:41:25.385Z [Modules] No module updates available.
+2023-04-10T14:33:10.886Z [Modules] Modules initializing
+2023-04-10T14:33:10.886Z [Modules] Distribution: remote
+2023-04-10T14:33:10.886Z [Modules] Host updates: enabled
+2023-04-10T14:33:10.886Z [Modules] Module updates: enabled
+2023-04-10T14:33:10.886Z [Modules] Module install path: /home/nix/.config/discord/0.0.26/modules
+2023-04-10T14:33:10.886Z [Modules] Module installed file path: /home/nix/.config/discord/0.0.26/modules/installed.json
+2023-04-10T14:33:10.887Z [Modules] Module download path: /home/nix/.config/discord/0.0.26/modules/pending
+2023-04-10T14:33:11.081Z [Modules] No updates to install
+2023-04-10T14:33:11.082Z [Modules] Checking for host updates.
+2023-04-10T14:33:11.599Z [Modules] Host is up to date.
+2023-04-10T14:33:11.600Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-10T14:33:11.641Z [Modules] No module updates available.
+2023-04-10T14:33:17.871Z [Modules] Checking for host updates.
+2023-04-10T14:33:18.144Z [Modules] Host is up to date.
+2023-04-10T14:33:18.144Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-10T14:33:18.147Z [Modules] No module updates available.
+2023-04-10T14:41:25.213Z [Modules] Checking for host updates.
+2023-04-10T14:41:26.274Z [Modules] Host is up to date.
+2023-04-10T14:41:26.274Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-10T14:41:26.353Z [Modules] No module updates available.
+2023-04-10T15:33:17.873Z [Modules] Checking for host updates.
+2023-04-10T15:33:18.209Z [Modules] Host is up to date.
+2023-04-10T15:33:18.210Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-10T15:33:18.257Z [Modules] No module updates available.
+2023-04-10T15:41:25.217Z [Modules] Checking for host updates.
+2023-04-10T15:41:25.462Z [Modules] Host is up to date.
+2023-04-10T15:41:25.462Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-10T15:41:25.499Z [Modules] No module updates available.
+2023-04-10T16:33:17.872Z [Modules] Checking for host updates.
+2023-04-10T16:33:18.204Z [Modules] Host is up to date.
+2023-04-10T16:33:18.204Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-10T16:33:18.246Z [Modules] No module updates available.

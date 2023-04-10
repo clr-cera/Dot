@@ -1,0 +1,473 @@
+2023-04-10T15:41:48.318Z - info: [ui] [AppStore] loading 0 repositories from store
+2023-04-10T15:41:48.388Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-04-10T15:41:48.390Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.2.10-arch1-1)
+2023-04-10T15:41:48.391Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-04-10T15:41:48.431Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-04-10T15:41:49.051Z - info: [ui] Opt in reported.
+2023-04-10T15:42:01.174Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2023-04-10T15:42:01.178Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-04-10T15:42:01.184Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=6894785a-14b6-401f-ae04-acaa237e4b58
+2023-04-10T15:42:01.185Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2023-04-10T15:42:01.503Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2023-04-10T15:42:54.512Z - info: [main] Received possible protocol arguments: 3
+2023-04-10T15:42:54.512Z - info: [main] Processing protocol url
+2023-04-10T15:42:54.520Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-04-10T15:42:54.522Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2023-04-10T15:42:54.532Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2023-04-10T15:42:54.624Z - info: [main] Received possible protocol arguments: 2
+2023-04-10T15:42:54.627Z - info: [main] Processing protocol url
+2023-04-10T15:42:55.441Z - info: [ui] [SignInStore] account resolved
+2023-04-10T15:42:55.442Z - info: [ui] [AppStore] adding account clr-cera (Arthur Ernesto de Carvalho) to store
+2023-04-10T15:42:55.450Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2023-04-10T15:42:55.516Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-04-10T15:42:55.639Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-04-10T15:42:57.015Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-04-10T15:42:57.348Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-04-10T15:43:16.395Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-04-10T15:43:16.445Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-04-10T15:43:17.153Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-04-10T15:43:17.171Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-04-10T15:43:17.445Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-04-10T15:43:17.627Z - info: [ui] Subscribed 'clr-cera' to Alive channel
+2023-04-10T15:46:42.635Z - info: [ui] [AppStore] removing account clr-cera (Arthur Ernesto de Carvalho) from store
+2023-04-10T15:46:42.651Z - info: [ui] Unubscribed 'clr-cera' from Alive channel
+2023-04-10T15:46:46.934Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-04-10T15:46:46.938Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=21e4f395-0bfc-42d0-bcdf-20bae36f7117
+2023-04-10T15:46:48.474Z - info: [main] Received possible protocol arguments: 3
+2023-04-10T15:46:48.474Z - info: [main] Processing protocol url
+2023-04-10T15:46:48.474Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-04-10T15:46:48.614Z - info: [main] Received possible protocol arguments: 2
+2023-04-10T15:46:48.618Z - info: [main] Processing protocol url
+2023-04-10T15:46:49.613Z - info: [ui] [SignInStore] account resolved
+2023-04-10T15:46:49.614Z - info: [ui] [AppStore] adding account clr-cera (Arthur Ernesto de Carvalho) to store
+2023-04-10T15:46:50.230Z - info: [ui] Subscribed 'clr-cera' to Alive channel
+2023-04-10T15:50:13.837Z - info: [ui] [AppStore] removing account clr-cera (Arthur Ernesto de Carvalho) from store
+2023-04-10T15:50:13.874Z - info: [ui] Unubscribed 'clr-cera' from Alive channel
+2023-04-10T15:50:16.031Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-04-10T15:50:16.037Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=6779ead1-913e-41c7-b678-b2de362e849f
+2023-04-10T15:50:17.340Z - info: [main] Received possible protocol arguments: 3
+2023-04-10T15:50:17.340Z - info: [main] Processing protocol url
+2023-04-10T15:50:17.341Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-04-10T15:50:17.441Z - info: [main] Received possible protocol arguments: 2
+2023-04-10T15:50:17.444Z - info: [main] Processing protocol url
+2023-04-10T15:50:18.417Z - info: [ui] [SignInStore] account resolved
+2023-04-10T15:50:18.418Z - info: [ui] [AppStore] adding account nix-gits (nix) to store
+2023-04-10T15:50:19.134Z - info: [ui] Subscribed 'nix-gits' to Alive channel
+2023-04-10T15:53:43.573Z - info: [ui] [AppStore] adding repository at /home/nix/.config to store
+2023-04-10T15:54:01.034Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 17.065s)
+2023-04-10T15:54:02.900Z - info: [ui] Executing createCommit: git commit -F - (took 1.867s)
+2023-04-10T15:54:03.071Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T15:54:04.913Z - info: [ui] Executing getChangesFiles: git log c37675c36313edb16c2dbbae3c3e40ef97dca774 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 1.778s)
+2023-04-10T15:54:06.343Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T15:54:14.619Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T15:54:18.487Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T15:54:32.109Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T15:56:04.950Z - info: [ui] Executing push: git -c credential.helper= push origin main --set-upstream --progress (took 57.632s)
+2023-04-10T15:56:06.735Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T15:56:06.931Z - info: [ui] [BranchPruner] No branches to prune.
+2023-04-10T15:56:08.560Z - info: [ui] Executing getChangesFiles: git log c37675c36313edb16c2dbbae3c3e40ef97dca774 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 1.702s)
+2023-04-10T15:56:30.783Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T15:56:58.094Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T16:01:01.325Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T16:01:22.276Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T16:02:58.933Z - info: [ui] [AppStore] removing account nix-gits (nix) from store
+2023-04-10T16:02:58.949Z - info: [ui] Unubscribed 'nix-gits' from Alive channel
+2023-04-10T16:03:35.546Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-04-10T16:03:35.551Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=b6f6db91-9e8a-4940-83ee-a0fbfdda0ee6
+2023-04-10T16:03:36.828Z - info: [main] Received possible protocol arguments: 3
+2023-04-10T16:03:36.828Z - info: [main] Processing protocol url
+2023-04-10T16:03:36.828Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-04-10T16:03:36.934Z - info: [main] Received possible protocol arguments: 2
+2023-04-10T16:03:36.938Z - info: [main] Processing protocol url
+2023-04-10T16:03:38.066Z - info: [ui] [SignInStore] account resolved
+2023-04-10T16:03:38.067Z - info: [ui] [AppStore] adding account clr-cera (Arthur Ernesto de Carvalho) to store
+2023-04-10T16:03:38.784Z - info: [ui] Subscribed 'clr-cera' to Alive channel
+2023-04-10T16:05:10.154Z - info: [ui] [AppStore] adding repository at /home/nix/.config/DotFiles to store
+2023-04-10T16:07:29.307Z - info: [ui] [AppStore] adding repository at /home/nix/.config to store
+2023-04-10T16:07:29.498Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T16:07:29.694Z - warn: [ui] fetchRepository: 'nix-gits/DotFiles' returned a 404
+2023-04-10T16:07:29.743Z - info: [ui] [BranchPruner] Last prune took place 11 minutes ago - skipping
+2023-04-10T16:07:29.861Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T16:07:29.886Z - warn: [ui] fetchRepository: 'nix-gits/DotFiles' returned a 404
+2023-04-10T16:07:30.501Z - info: [ui] [fetchProtectedBranches] unable to list protected branches
+Error: Not Found
+    at Dt (/home/nix/webpack:/app/src/lib/http.ts:178:11)
+    at vn.fetchProtectedBranches (/home/nix/webpack:/app/src/lib/api.ts:1548:7)
+    at Zn.updateBranchProtectionsFromAPI (/home/nix/webpack:/app/src/lib/stores/app-store.ts:3969:11)
+2023-04-10T16:07:30.509Z - warn: [ui] fetchMentionables: 'repos/nix-gits/DotFiles/mentionables/users' returned a 404
+2023-04-10T16:07:30.510Z - warn: [ui] fetchAll: 'repos/nix-gits/DotFiles/issues?state=open' returned a 404
+2023-04-10T16:07:30.528Z - warn: [ui] fetchAll: 'repos/nix-gits/DotFiles/pulls?state=open' returned a 404
+2023-04-10T16:07:30.528Z - warn: [ui] fetchRepository: 'nix-gits/DotFiles' returned a 404
+2023-04-10T16:07:31.427Z - info: [ui] Executing getChangesFiles: git log c37675c36313edb16c2dbbae3c3e40ef97dca774 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 1.841s)
+2023-04-10T16:07:32.240Z - info: [ui] Executing getChangesFiles: git log c37675c36313edb16c2dbbae3c3e40ef97dca774 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 2.351s)
+2023-04-10T16:07:41.259Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: DotFiles - clr-cera (has token)
+2023-04-10T16:07:41.892Z - error: [ui] `git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin` exited with an unexpected code: 128.
+stderr:
+remote: Repository not found.
+fatal: repository 'https://github.com/nix-gits/DotFiles.git/' not found
+
+(The error was parsed as 8: The repository does not seem to exist anymore. You may not have access, or it may have been deleted or renamed.)
+2023-04-10T16:07:42.764Z - info: [ui] [fetchPushControl] unable to check if branch is potentially pushable
+Error: Not Found
+    at Dt (/home/nix/webpack:/app/src/lib/http.ts:178:11)
+    at vn.fetchPushControl (/home/nix/webpack:/app/src/lib/api.ts:1522:7)
+    at Zn.refreshBranchProtectionState (/home/nix/webpack:/app/src/lib/stores/app-store.ts:1152:39)
+    at /home/nix/webpack:/app/src/lib/stores/app-store.ts:4857:32
+    at Zn.withPushPullFetch (/home/nix/webpack:/app/src/lib/stores/app-store.ts:4374:5)
+    at Zn.performFetch (/home/nix/webpack:/app/src/lib/stores/app-store.ts:4813:5)
+2023-04-10T16:07:42.929Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T16:07:43.420Z - warn: [ui] fetchAll: 'repos/nix-gits/DotFiles/issues?state=open' returned a 404
+2023-04-10T16:08:08.043Z - info: [ui] [AppStore] adding repository at /home/nix/.config to store
+2023-04-10T16:08:08.203Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T16:08:08.350Z - warn: [ui] fetchRepository: 'nix-gits/DotFiles' returned a 404
+2023-04-10T16:08:08.476Z - info: [ui] [BranchPruner] Last prune took place 12 minutes ago - skipping
+2023-04-10T16:08:08.528Z - warn: [ui] fetchRepository: 'nix-gits/DotFiles' returned a 404
+2023-04-10T16:08:08.570Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T16:08:08.667Z - warn: [ui] fetchAll: 'repos/nix-gits/DotFiles/issues?state=open' returned a 404
+2023-04-10T16:08:08.710Z - info: [ui] [fetchProtectedBranches] unable to list protected branches
+Error: Not Found
+    at Dt (/home/nix/webpack:/app/src/lib/http.ts:178:11)
+    at vn.fetchProtectedBranches (/home/nix/webpack:/app/src/lib/api.ts:1548:7)
+    at Zn.updateBranchProtectionsFromAPI (/home/nix/webpack:/app/src/lib/stores/app-store.ts:3969:11)
+2023-04-10T16:08:08.718Z - warn: [ui] fetchRepository: 'nix-gits/DotFiles' returned a 404
+2023-04-10T16:08:10.215Z - info: [ui] Executing getChangesFiles: git log c37675c36313edb16c2dbbae3c3e40ef97dca774 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 1.927s)
+2023-04-10T16:08:10.617Z - info: [ui] Executing getChangesFiles: git log c37675c36313edb16c2dbbae3c3e40ef97dca774 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 1.897s)
+2023-04-10T16:08:14.353Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T16:08:15.193Z - info: [ui] [BranchPruner] Last prune took place 12 minutes ago - skipping
+2023-04-10T16:08:15.331Z - info: [ui] [fetchProtectedBranches] unable to list protected branches
+Error: Not Found
+    at Dt (/home/nix/webpack:/app/src/lib/http.ts:178:11)
+    at vn.fetchProtectedBranches (/home/nix/webpack:/app/src/lib/api.ts:1548:7)
+    at Zn.updateBranchProtectionsFromAPI (/home/nix/webpack:/app/src/lib/stores/app-store.ts:3969:11)
+2023-04-10T16:08:15.343Z - warn: [ui] fetchRepository: 'nix-gits/DotFiles' returned a 404
+2023-04-10T16:08:15.383Z - warn: [ui] fetchAll: 'repos/nix-gits/DotFiles/issues?state=open' returned a 404
+2023-04-10T16:08:15.682Z - error: [ui] `git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin` exited with an unexpected code: 128.
+stderr:
+remote: Repository not found.
+fatal: repository 'https://github.com/nix-gits/DotFiles.git/' not found
+
+(The error was parsed as 8: The repository does not seem to exist anymore. You may not have access, or it may have been deleted or renamed.)
+2023-04-10T16:08:16.555Z - info: [ui] [fetchPushControl] unable to check if branch is potentially pushable
+Error: Not Found
+    at Dt (/home/nix/webpack:/app/src/lib/http.ts:178:11)
+    at vn.fetchPushControl (/home/nix/webpack:/app/src/lib/api.ts:1522:7)
+    at Zn.refreshBranchProtectionState (/home/nix/webpack:/app/src/lib/stores/app-store.ts:1152:39)
+    at /home/nix/webpack:/app/src/lib/stores/app-store.ts:4857:32
+    at Zn.withPushPullFetch (/home/nix/webpack:/app/src/lib/stores/app-store.ts:4374:5)
+    at Zn.performFetch (/home/nix/webpack:/app/src/lib/stores/app-store.ts:4813:5)
+    at _o.performAndScheduleFetch (/home/nix/webpack:/app/src/lib/stores/helpers/background-fetcher.ts:102:7)
+2023-04-10T16:08:16.684Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T16:08:33.427Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T16:09:00.512Z - info: [ui] [AppStore] adding repository at /home/nix/.config to store
+2023-04-10T16:09:00.729Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T16:09:00.856Z - warn: [ui] fetchRepository: 'nix-gits/DotFiles' returned a 404
+2023-04-10T16:09:00.989Z - info: [ui] [BranchPruner] Last prune took place 13 minutes ago - skipping
+2023-04-10T16:09:01.046Z - warn: [ui] fetchRepository: 'nix-gits/DotFiles' returned a 404
+2023-04-10T16:09:01.054Z - error: [ui] Could not load old contents for syntax highlighting
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stdout maxBuffer length exceeded
+    at __node_internal_captureLargerStackTrace (node:internal/errors:477:5)
+    at new NodeError (node:internal/errors:387:5)
+    at Socket.onChildStdout (node:child_process:477:14)
+    at Socket.emit (node:events:525:35)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:285:11)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-04-10T16:09:01.162Z - warn: [ui] fetchAll: 'repos/nix-gits/DotFiles/issues?state=open' returned a 404
+2023-04-10T16:09:01.190Z - info: [ui] [fetchProtectedBranches] unable to list protected branches
+Error: Not Found
+    at Dt (/home/nix/webpack:/app/src/lib/http.ts:178:11)
+    at vn.fetchProtectedBranches (/home/nix/webpack:/app/src/lib/api.ts:1548:7)
+    at Zn.updateBranchProtectionsFromAPI (/home/nix/webpack:/app/src/lib/stores/app-store.ts:3969:11)
+2023-04-10T16:09:01.353Z - warn: [ui] fetchRepository: 'nix-gits/DotFiles' returned a 404
+2023-04-10T16:09:02.634Z - info: [ui] Executing getChangesFiles: git log c37675c36313edb16c2dbbae3c3e40ef97dca774 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 1.874s)
+2023-04-10T16:09:03.024Z - info: [ui] Executing getChangesFiles: git log c37675c36313edb16c2dbbae3c3e40ef97dca774 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 1.859s)
+2023-04-10T16:11:45.608Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/clr-cera/Dot-Files.git - clr-cera (has token)
+2023-04-10T16:11:46.666Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/clr-cera/Dot-Files.git /home/nix/Dot-Files (took 1.055s)
+2023-04-10T16:11:46.718Z - info: [ui] [AppStore] adding repository at /home/nix/Dot-Files to store
+2023-04-10T16:11:47.248Z - info: [ui] [BranchPruner] No branches to prune.
+2023-04-10T16:12:21.118Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-04-10T16:12:25.128Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-04-10T16:12:31.222Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-04-10T16:12:32.239Z - error: [ui] `git commit -F -` exited with an unexpected code: 1.
+stdout:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.config/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+2023-04-10T16:12:32.240Z - info: [ui] [Timing] Action 'create commit' for 'clr-cera/Dot-Files' took 0.040s
+2023-04-10T16:12:42.347Z - error: [ui] `git commit -F -` exited with an unexpected code: 1.
+stdout:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.config/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+2023-04-10T16:12:42.348Z - info: [ui] [Timing] Action 'create commit' for 'clr-cera/Dot-Files' took 0.051s
+2023-04-10T16:13:33.172Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-04-10T16:13:50.421Z - error: [ui] `git commit -F -` exited with an unexpected code: 1.
+stdout:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.config/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+2023-04-10T16:13:50.422Z - info: [ui] [Timing] Action 'create commit' for 'clr-cera/Dot-Files' took 0.055s
+2023-04-10T16:14:09.195Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-04-10T16:16:16.344Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Dot-Files - clr-cera (has token)
+2023-04-10T16:16:17.734Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 1.8s of which 0.0s paused, total 1.8s
+2023-04-10T16:16:18.514Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Dot-Files - clr-cera (has token)
+2023-04-10T16:16:28.251Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-04-10T16:16:42.720Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-04-10T16:16:42.723Z - info: [ui] [AppStore] found account: clr-cera (Arthur Ernesto de Carvalho)
+2023-04-10T16:16:42.758Z - info: [ui] [BranchPruner] Last prune took place 5 minutes ago - skipping
+2023-04-10T16:16:42.904Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-04-10T16:16:42.922Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.2.10-arch1-1)
+2023-04-10T16:16:42.923Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-04-10T16:16:43.292Z - info: [ui] Subscribed 'clr-cera' to Alive channel
+2023-04-10T16:16:43.458Z - info: [ui] Stats reported.
+2023-04-10T16:21:36.903Z - error: [ui] `git commit -F -` exited with an unexpected code: 1.
+stdout:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.config/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+2023-04-10T16:21:36.903Z - info: [ui] [Timing] Action 'create commit' for 'clr-cera/Dot-Files' took 0.042s
+2023-04-10T16:21:44.091Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-04-10T16:21:44.095Z - info: [ui] [AppStore] found account: clr-cera (Arthur Ernesto de Carvalho)
+2023-04-10T16:21:44.124Z - info: [ui] [BranchPruner] Last prune took place 10 minutes ago - skipping
+2023-04-10T16:21:44.263Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-04-10T16:21:44.279Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.2.10-arch1-1)
+2023-04-10T16:21:44.280Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-04-10T16:21:44.578Z - info: [ui] Subscribed 'clr-cera' to Alive channel
+2023-04-10T16:35:08.980Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-04-10T16:35:08.984Z - info: [ui] [AppStore] found account: clr-cera (Arthur Ernesto de Carvalho)
+2023-04-10T16:35:09.013Z - info: [ui] [BranchPruner] Last prune took place 23 minutes ago - skipping
+2023-04-10T16:35:09.242Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.2.10-arch1-1)
+2023-04-10T16:35:09.244Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-04-10T16:35:09.653Z - info: [ui] Subscribed 'clr-cera' to Alive channel
+2023-04-10T16:35:10.895Z - info: [ui] Executing getChangesFiles: git log 4939270d530fd484ea87444440f306a5c87130e3 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 1.825s)
+2023-04-10T16:35:11.888Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Dot-Files - clr-cera (has token)
+2023-04-10T16:35:12.621Z - error: [ui] `git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin` exited with an unexpected code: 128.
+stderr:
+fatal: refusing to merge unrelated histories
+
+(The error was parsed as 29: Unable to merge unrelated histories in this repository.)
+2023-04-10T16:35:24.734Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Dot-Files - clr-cera (has token)
+2023-04-10T16:35:25.414Z - error: [ui] `git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin` exited with an unexpected code: 128.
+stderr:
+fatal: refusing to merge unrelated histories
+
+(The error was parsed as 29: Unable to merge unrelated histories in this repository.)
+2023-04-10T16:35:29.662Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Dot-Files - clr-cera (has token)
+2023-04-10T16:35:30.330Z - error: [ui] `git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin` exited with an unexpected code: 128.
+stderr:
+fatal: refusing to merge unrelated histories
+
+(The error was parsed as 29: Unable to merge unrelated histories in this repository.)
+2023-04-10T16:36:16.454Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Dot-Files - clr-cera (has token)
+2023-04-10T16:36:18.126Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 1.621s)
+2023-04-10T16:36:18.127Z - error: [ui] `git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin` exited with an unexpected code: 128.
+stderr:
+fatal: refusing to merge unrelated histories
+
+(The error was parsed as 29: Unable to merge unrelated histories in this repository.)
+2023-04-10T16:37:03.032Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Dot-Files - clr-cera (has token)
+2023-04-10T16:38:15.938Z - info: [ui] [AppStore] adding repository at /home/nix/Dot to store
