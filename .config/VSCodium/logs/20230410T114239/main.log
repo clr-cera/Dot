@@ -1,8 +1,0 @@
-2023-04-10 11:42:39.518 [info] update#setState idle
-2023-04-10 11:42:40.764 [info] Starting extension host with pid 95502 (fork() took 6 ms).
-2023-04-10 11:42:55.293 [info] Extension host with pid 95502 exited with code: 0, signal: null.
-2023-04-10 11:42:55.852 [info] Starting extension host with pid 95606 (fork() took 5 ms).
-2023-04-10 11:43:09.519 [info] update#setState checking for updates
-2023-04-10 11:43:10.026 [info] update#setState idle
-2023-04-10 11:44:01.735 [info] Waiting for extension host with pid 95606 to exit.
-2023-04-10 11:44:01.739 [info] Extension host with pid 95606 exited with code: 0, signal: null.

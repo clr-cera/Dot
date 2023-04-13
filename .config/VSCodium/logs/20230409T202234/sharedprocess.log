@@ -1,9 +1,0 @@
-2023-04-09 20:22:36.498 [info] Starting worker process with pid 78403 (type: fileWatcher, window: 1).
-2023-04-09 20:22:40.990 [info] Getting Manifest... enkia.tokyo-night
-2023-04-09 20:22:41.009 [info] Installing extension: enkia.tokyo-night
-2023-04-09 20:22:41.195 [info] Extension installed successfully: enkia.tokyo-night
-2023-04-09 20:23:19.008 [info] Starting worker process with pid 78987 (type: fileWatcher, window: 3).
-2023-04-09 20:23:24.319 [info] Getting Manifest... enkia.tokyo-night
-2023-04-09 20:23:24.329 [info] Installing extension: enkia.tokyo-night
-2023-04-09 20:23:24.537 [info] Extension installed successfully: enkia.tokyo-night
-2023-04-09 20:23:41.678 [info] Worker process with pid 78987 terminated normally (type: fileWatcher, window: 3).

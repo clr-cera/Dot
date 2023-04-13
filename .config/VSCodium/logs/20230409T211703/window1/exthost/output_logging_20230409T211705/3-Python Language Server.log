@@ -1,9 +1,0 @@
-[Info  - 9:17:09 PM] (82611) Pylance language server 2023.4.10 (pyright d7616109) starting
-[Info  - 9:17:09 PM] (82611) Server root directory: /home/nix/.vscode-oss/extensions/ms-python.vscode-pylance-2023.4.10/dist
-[Info  - 9:17:09 PM] (82611) Starting service instance ".config"
-[Info  - 9:17:09 PM] (82611) Setting pythonPath for service ".config": "/bin/python"
-[Warn  - 9:17:09 PM] (82611) stubPath /home/nix/.config/typings is not a valid directory.
-[Info  - 9:17:10 PM] (82611) Assuming Python version 3.10
-[Info  - 9:17:10 PM] (82611) No source files found.
-[Info  - 9:17:10 PM] (82611) Background analysis(1) root directory: /home/nix/.vscode-oss/extensions/ms-python.vscode-pylance-2023.4.10/dist
-[Info  - 9:17:10 PM] (82611) Background analysis(1) started

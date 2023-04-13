@@ -1,9 +1,0 @@
-[Info  - 8:23:20 PM] (79037) Pylance language server 2023.4.10 (pyright d7616109) starting
-[Info  - 8:23:20 PM] (79037) Server root directory: /home/nix/.vscode-oss/extensions/ms-python.vscode-pylance-2023.4.10/dist
-[Info  - 8:23:20 PM] (79037) Starting service instance "themes"
-[Info  - 8:23:20 PM] (79037) Setting pythonPath for service "themes": "/bin/python"
-[Warn  - 8:23:20 PM] (79037) stubPath /home/nix/.config/BetterDiscord/themes/typings is not a valid directory.
-[Info  - 8:23:20 PM] (79037) Assuming Python version 3.10
-[Info  - 8:23:20 PM] (79037) No source files found.
-[Info  - 8:23:20 PM] (79037) Background analysis(1) root directory: /home/nix/.vscode-oss/extensions/ms-python.vscode-pylance-2023.4.10/dist
-[Info  - 8:23:20 PM] (79037) Background analysis(1) started
