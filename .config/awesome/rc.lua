@@ -202,11 +202,12 @@ globalkeys = gears.table.join(
     -- Standard program
     awful.key({ modkey,           }, "Return", function () awful.spawn(terminal) end,
               {description = "open a terminal", group = "launcher"}),
+    awful.key({ "Mod1",             }, "Tab", function () awful.spawn.with_shell("rofi -show window") end,
+              {description = "Alt/Tab feature", group = "launcher"}), 
     awful.key({ modkey, "Control" }, "r", awesome.restart,
               {description = "reload awesome", group = "awesome"}),
     awful.key({ modkey, "Shift"   }, "q", awesome.quit,
               {description = "quit awesome", group = "awesome"}),
-
     awful.key({ modkey,           }, "l",     function () awful.tag.incmwfact( 0.05)          end,
               {description = "increase master width factor", group = "layout"}),
     awful.key({ modkey,           }, "h",     function () awful.tag.incmwfact(-0.05)          end,
@@ -449,6 +450,7 @@ end)
 awful.spawn.with_shell("xrandr --output DP-0 --off --output DP-1 --off --output HDMI-0 --mode 2560x1080 --pos 0x0 --rotate normal --output DP-2 --primary --mode 1920x1080 --pos 2560x0 --rotate normal")
 awful.spawn.with_shell("nitrogen --restore")
 awful.spawn.with_shell("picom --backend glx")
+awful.spawn.with_shell("dunst")
 
---Configurations
 beautiful.useless_gap = 5
+--Configurations
