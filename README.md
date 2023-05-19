@@ -3,7 +3,8 @@ My dot files!
 
 # Awesomewm/Picom
 
-Peaclock\n
+Peaclock
+
 BetterDiscord
 
 Bashtop
