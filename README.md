@@ -1,7 +1,7 @@
 # Dot
 My dot files!
 
-This is a tokyo night/Cyberpunk customization for my main desktop;
+This is a tokyo night/Cyberpunk customization for my main desktop
 
 Anyone is welcome to install it, modify it and republish it if given the respective credits!
 
