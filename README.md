@@ -7,7 +7,7 @@ Anyone is welcome to install it, modify it and republish it if given the respect
 
 # Awesomewm
 
-Picom (dccsillag)
+Picom 
 
 Peaclock
 
