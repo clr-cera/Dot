@@ -1,2 +1,4 @@
 # Dot
-My dot files
+My dot files!
+
+Awesomewm/Picom
