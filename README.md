@@ -5,7 +5,9 @@ This is a tokyo night/Cyberpunk customization for my main desktop
 
 Anyone is welcome to install it, modify it and republish it if given the respective credits!
 
-## Awesomewm
+## Softwares
+
+Awesomewm
 
 Picom 
 
@@ -33,4 +35,4 @@ Spicetify
 
 Zathura
 
-Currently I dont have the list of sources for the configs I just altered, but I will have it later on!
+Currently I dont have the list of credit of sources for the configs I altered, but I will have it later on!
