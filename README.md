@@ -52,5 +52,6 @@ The intention is to replicate the feeling of living in a metropole with technolo
 - *[dracula](https://draculatheme.com)*
 
 - *[Eric Murphy](https://www.youtube.com/@EricMurphyxyz)*
+- *[Stronk-Dev](https://github.com/stronk-dev)*
 
 - *And all the others amazing content creators who teach about linux & graphical interfaces!*
