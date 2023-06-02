@@ -1,14 +1,5 @@
 # peaclock
-# default config
-#
-# The config file in the config directory must be named 'config'.
-# It is a plain text file that can contain any of the commands listed
-# in the 'Commands' section of the '--help' output.
-# Each command must be on its own line.
-# Lines that begin with the '#' character are treated as comments.
-#
-# For more information, refer to the 'Configuration' and 'Commands'
-# sections of the programs help output with '--help' or '-h'.
+# author: clr-cera
 
 # -----------------------------------------------------------------------------
 # general
@@ -178,3 +169,5 @@ style success green
 
 # set the style of the prompt status on error
 style error red
+
+# Made by clr-cera

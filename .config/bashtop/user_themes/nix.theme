@@ -1,5 +1,5 @@
-#Bashtop theme with nord palette (https://www.nordtheme.com)
-#by Justin Zobel <justin.zobel@gmail.com>
+#Bashtop theme with tokyo night palette
+#by clr-cera, altered from Justin Zobel 
 
 # Colors should be in 6 or 2 character hexadecimal or single spaced rgb decimal: "#RRGGBB", "#BW" or "0-255 0-255 0-255"
 # example for white: "#ffffff", "#ff" or "255 255 255".

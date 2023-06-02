@@ -1,7 +1,4 @@
-# This file is part of ranger, the console file manager.
-# License: GNU GPL version 3, see the file "AUTHORS" for details.
-# This theme was greatly inspired by "RougarouTheme" for ranger
-# It can be found in: `https://github.com/RougarouTheme/ranger`
+#author: clr-cera
 
 from __future__ import absolute_import, division, print_function
 
