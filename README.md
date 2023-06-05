@@ -35,7 +35,7 @@ Spicetify
 
 Zathura
 
-Currently I dont have a full list of credit of sources for the configs I altered, but I will have it later on!
+Currently I dont have a full list of credit of sources for the configs I modified, but I will have it later on!
 
 ## Concepts
 
