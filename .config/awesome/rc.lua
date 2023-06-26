@@ -244,6 +244,11 @@ globalkeys = gears.table.join(
   -- Prompt
   awful.key({ modkey }, "r", function() awful.spawn.with_shell("rofi -show drun") end,
     { description = "run prompt", group = "launcher" }),
+  awful.key({ modkey }, "b", function() awful.spawn.with_shell("eww open bar") end,
+    { description = "open bar", group = "launcher" }),
+  awful.key({ modkey, "Control" }, "b", function() awful.spawn.with_shell("eww close bar") end,
+    { description = "close bar", group = "launcher" }),
+
 
   awful.key({ modkey }, "x",
     function()
@@ -459,8 +464,11 @@ end)
 --AutoStart
 awful.spawn.with_shell(
   "xrandr --output DP-0 --off --output DP-1 --off --output HDMI-0 --mode 2560x1080 --pos 0x0 --rotate normal --output DP-2 --primary --mode 1920x1080 --pos 2560x0 --rotate normal")
+
 awful.spawn.with_shell("nitrogen --restore")
 awful.spawn.with_shell("picom")
+
+awful.spawn.with_shell("fcitx5")
 
 --Configurations
 beautiful.useless_gap = 5

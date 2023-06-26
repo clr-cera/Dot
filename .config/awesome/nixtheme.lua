@@ -1,5 +1,5 @@
 ---------------------------
---   clr-cera's theme    --
+-- clr-cera awesome theme --
 ---------------------------
 
 local theme_assets                              = require("beautiful.theme_assets")
@@ -119,6 +119,5 @@ theme.icon_theme = "candy-icons"
 
 
 return theme
-
 
 -- vim: filetype=lua:expandtab:shiftwidth=4:tabstop=8:softtabstop=4:textwidth=80
