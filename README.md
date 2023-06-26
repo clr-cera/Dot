@@ -1,6 +1,8 @@
 # Dot
 My dot files!
 
+![Alt text](showcaseImages/AwesomeRiceFront.png?raw=true "Title")
+
 This is a tokyo night/Cyberpunk customization for my main desktop
 
 Anyone is welcome to download it, modify it and republish it if given the respective credits!
