@@ -39,8 +39,6 @@ Zathura
 
 Eww
 
-Currently I dont have a full list of credit of sources for the configs I modified, but I will have it later on!
-
 ## Concepts
 
 For the colorscheme I used Enkia's Tokyo Night, with the accent being on the purple `#bb9af7`, and general text/buttons on the orange `#e0af68`.
