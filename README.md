@@ -37,6 +37,8 @@ Spicetify
 
 Zathura
 
+Eww
+
 Currently I dont have a full list of credit of sources for the configs I modified, but I will have it later on!
 
 ## Concepts
