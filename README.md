@@ -38,6 +38,13 @@ Spicetify
 Zathura
 
 Eww
+## Dependencies
+Fonts: 
+- RobotoMono Nerd Font
+- FiraCode Nerd Font
+- Sarasa
+RandomStuff:
+- Playerctl
 
 ## Concepts
 
