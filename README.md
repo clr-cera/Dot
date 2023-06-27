@@ -43,7 +43,8 @@ Fonts:
 - RobotoMono Nerd Font
 - FiraCode Nerd Font
 - Sarasa
-RandomStuff:
+
+Random stuff:
 - Playerctl
 
 ## Concepts
