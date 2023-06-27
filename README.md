@@ -43,7 +43,7 @@ Eww
 
 For the colorscheme I used Enkia's Tokyo Night, with the accent being on the purple `#bb9af7`, and general text/buttons on the orange `#e0af68`.
 
-The intention is to replicate the feeling of living in a metropole with technology, to think of cybernetics.
+The intention is to replicate the feeling of living in a metropole with technology.
 
 ## Credits
 
