@@ -11,7 +11,7 @@ Anyone is welcome to download it, modify it and republish it if given the respec
 
 _**Awesomewm**_
 
-Picom 
+Picom
 
 Peaclock
 
