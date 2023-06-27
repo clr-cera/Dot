@@ -1,9 +1,8 @@
-# Dot
-My dot files!
+# NixCity
 
 ![Alt text](showcaseImages/AwesomeRiceFront.png?raw=true "Title")
 
-This is a tokyo night/Cyberpunk customization for my main desktop
+This is a tokyo night/Cyberpunk customization for my main desktop using AwesomeWM.
 
 Anyone is welcome to download it, modify it and republish it if given the respective credits!
 
@@ -11,7 +10,7 @@ Anyone is welcome to download it, modify it and republish it if given the respec
 
 _**Awesomewm**_
 
-Picom 
+Picom
 
 Peaclock
 
@@ -38,6 +37,14 @@ Spicetify
 Zathura
 
 Eww
+## Dependencies
+Fonts: 
+- RobotoMono Nerd Font
+- FiraCode Nerd Font
+- Sarasa
+
+Random stuff:
+- Playerctl
 
 ## Concepts
 
