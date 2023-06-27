@@ -59,15 +59,15 @@
 
   (box
     :orientation "v"
-        (label
-          :class "title"
-          :text "电
-池"
+    :spacing 1
+        (image
+          :path "./assets/battery.svg"
+          :xalign 1
         )
 
         (label
           :class "bottomInfo"
-          :text "${EWW_BATTERY.BAT1.capacity}%" 
+          :text "${EWW_BATTERY.BAT1.capacity}" 
         )
   )
 )
@@ -77,15 +77,14 @@
 
     (box 
       :orientation "v"
+      :spacing 2
     
-      (label
-        :class "title"
-        :text "响
-度"
+      (image
+        :path "./assets/headphones.svg" 
       )
       (label
         :class "bottomInfo"
-        :text "${vol}"
+        :text "${replace(vol,"%","") ?:"不"}"
       )
     )
 )
@@ -200,7 +199,7 @@
             :valign "end"
             :halign "center"
             :space-evenly false
-            :spacing 0
+            :spacing 2
 
         (audio)
         (sep)
@@ -277,4 +276,3 @@
            :reserve (struts :distance "50px" :side "right")
   
 (bar))
-
